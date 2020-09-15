@@ -1,0 +1,3 @@
+/media/kronton/New Volume/my works/Projects/ROS/Build_my_world/first_world_ws/first_robot/build/CMakeFiles/rebuild_cache.dir
+/media/kronton/New Volume/my works/Projects/ROS/Build_my_world/first_world_ws/first_robot/build/CMakeFiles/welcome_msg.dir
+/media/kronton/New Volume/my works/Projects/ROS/Build_my_world/first_world_ws/first_robot/build/CMakeFiles/edit_cache.dir
